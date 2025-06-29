@@ -2,4 +2,8 @@
   {% for item in site.data.navigation %}
     <a href="{{ item.link }}"{% if page.url == item.link %} class="current"{% endif %}>{{ item.name }}</a>
   {% endfor %}
+  <a href="{{ "/"        | relative_url }}">Home</a>
+  <a href="{{ "/about/"  | relative_url }}">About</a>
+  <a href="{{ "/blog/"   | relative_url }}">Blog</a>
+  <a href="{{ "/categories/" | relative_url }}">Categories</a>
 </nav>
