@@ -11,7 +11,8 @@ kramdown:
 collections:
   categories:
     output: true
-
+url: "https://aga-knopf.github.io"
+baseurl: "/inner-journey-journal"
 defaults:
   - scope:
       path: ""
