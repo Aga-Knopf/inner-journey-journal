@@ -1,6 +1,6 @@
 # inner-journey-journal
 
-[link text](https://aga-knopf.github.io/inner-journey-journal/)
+[The blog url](https://aga-knopf.github.io/inner-journey-journal/)
 
 I've been experiencing a sharp pain of the left side of my body for 5 years. 
 
