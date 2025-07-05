@@ -12,4 +12,7 @@ That day I woke up and gave my eyeballs a light massage. I've felt my eyeballs w
 A day before that I did my 45 minutes exercises on online classes (I attend them twice a week, on Mondays and Thursdays) - this time the focus was on sunset light & palming. 
 
 For the record I began exercising my eyes on September 2024.
-Before that I had spontanous sharp vision 2 months earlier - only with my stronger eye, -1D - I was occasionally seeing sharp when I was watching cartoons or driving. Or when I was at the gym. For a minute, for a few minutes, for a few seconds. It happened when I was really calm. I began calming myself down (without any medications - just by letting emotions go and trying my best to change my outlook at the world).
+Before that I had spontanous sharp vision 2 months earlier - only with my stronger eye, -1D - I was occasionally seeing sharp when I was watching cartoons or driving. Or when I was at the gym. For a minute, for a few minutes, for a few seconds. It happened when I was really calm. 
+
+I began calming myself down (without any medications - just by letting emotions go and trying my best to change my outlook at the world) a few years ago. The results of constantly working on it are gradually becoming visible as physical improvements - less headaches, less body tensions (the body is rarely stiff), droopy eyelids are gone, I have slightly better eyesight (better contrast & vivid colors, and the eyes are not 'jumpy'), better skin and hair. 
+
